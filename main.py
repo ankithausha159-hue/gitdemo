@@ -1,4 +1,4 @@
 print("hello world")
-print ("helloo")
+print ("hello")
 print (" this is my second text commit ")
 print(":error:")
